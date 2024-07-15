@@ -66,7 +66,7 @@ pip install Flask requests
 I have made every effort to implement all the main aspects of the Blog capstone project in the best possible way. However, the development journey doesn't end here, and your input is crucial for our continuous improvement.
 
 > [!IMPORTANT]
-> Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make the Abblix OIDC Server library more robust and user-friendly.
+> Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make the blog capstone project more robust and user-friendly.
 
 Please feel free to submit an issue or open an issue on this repository, if you have any feedback or suggestions.
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or new features.
