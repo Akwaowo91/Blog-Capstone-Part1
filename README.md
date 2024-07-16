@@ -1,10 +1,10 @@
 ##  📖 Table Of Contents
-- [About](https://github.com/Akwaowo91/Blog-Capstone-Part1/new/master?filename=README.md#-about) 
-- [Folder Structure](https://github.com/Akwaowo91/Blog-Capstone-Part1/new/master?filename=README.md#-folder-structure)
+- About
+- Folder Structure
   - What each Folder does
-- [How to Build](https://github.com/Akwaowo91/Blog-Capstone-Part1/new/master?filename=README.md#-how-to-build)
+- How to Build
 - Documentation
-- [Feedback and Contributions](https://github.com/Akwaowo91/Blog-Capstone-Part1/new/master?filename=README.md#-feedback-and-contributions)
+- Feedback and Contributions
 
 ## 🚀 About
 **Blog capstone Part1** This project is a simple blog application built using Flask, a lightweight web framework for Python. The blog fetches posts from an API and displays them on a web page. Users can click on individual posts to read the full content.
